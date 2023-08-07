@@ -1,6 +1,6 @@
 using System;
 
-namespace AccessSpecifiers
+namespace Encapsulates
 {
     class Student
     {
