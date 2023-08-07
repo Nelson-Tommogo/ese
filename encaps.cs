@@ -35,9 +35,9 @@ namespace AccessSpecifiers
         {
             Student student = new Student();
             // Setting values to the properties
-            student.ID = "101";
-            student.Name = "Mohan Ram";
-            student.Email = "mohan@example.com";
+             student.ID = "D045";
+            student.Name = "Common Genius";
+            student.Email = "nelsontommogo9@gmail.com";
             // getting values
             Console.WriteLine("ID = " + student.ID);
             Console.WriteLine("Name = " + student.Name);
